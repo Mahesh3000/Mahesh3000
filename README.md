@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hey there, I'm Mahesh Sivangi!
+🚀 Frontend Developer | React Enthusiast | AWS Certified
 
+🌟 About Me
 
-**Mahesh3000/Mahesh3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building interactive, scalable, and user-friendly web applications.
 
-Here are some ideas to get you started:
+2.5+ years of professional experience specializing in ReactJS, JavaScript, and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skilled in crafting responsive UIs and integrating secure backend APIs with Node.js and Express.js.
 
+Experienced with AWS Cloud Services — deploying applications on EC2, managing storage with S3, databases with RDS, and serverless functions using Lambda.
+
+Strong understanding of database management with MySQL, PostgreSQL, and caching solutions like Redis.
+
+Currently pursuing a Master’s in Computer Science at Southern Arkansas University (GPA: 3.75).
