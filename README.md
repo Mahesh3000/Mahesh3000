@@ -3,7 +3,6 @@
 </h1>
 
 ## 👨‍💻 About Me
-
 - 🎓 I have completed my Master of Science in Computer Science from **Southern Arkansas University** (GPA: 3.75 | Class of 2025).
 - 💻 2.5+ years of professional experience as a **Frontend Developer**, building scalable, high-performance web applications.
 - 🛠️ Specialized in **ReactJS**, **JavaScript**, **TypeScript**, with strong backend exposure to **Node.js** and **cloud-based** application development on **AWS**.
