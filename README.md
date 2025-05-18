@@ -3,6 +3,7 @@
 </h1>
 
 
+
 ## 👨‍💻 About Me
 
 - 🎓 I have completed my Master of Science in Computer Science from **Southern Arkansas University** (GPA: 3.83 | Class of 2025).
