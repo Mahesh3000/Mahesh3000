@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh;A+Front-end+Developer" alt="Typing SVG" />
 </h1>
 
+
 ## 👨‍💻 About Me
 
 - 🎓 I have completed my Master of Science in Computer Science from **Southern Arkansas University** (GPA: 3.83 | Class of 2025).
