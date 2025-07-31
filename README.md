@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh;Full-Stack+Developer+%7C+React+%2B+Java" alt="Typing SVG" />
+<h1 align="start">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh+Sivangi;Full-Stack+Developer+%7C+React+%2B+Java" alt="Typing SVG" />
 </h1>
 
 ---
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
