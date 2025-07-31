@@ -1,36 +1,53 @@
-<h1 >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh;A+Front-end+Developer" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh;Full-Stack+Developer+%7C+React+%2B+Java" alt="Typing SVG" />
 </h1>
+
+---
 
 ## 👨‍💻 About Me
 
--🎓 Master of Science in Computer Science – Southern Arkansas University (GPA: 3.83, Class of 2025)
--💻 5 years of experience building fast, scalable, and reliable web applications
--🛠️ Expertise in ReactJS, JavaScript, TypeScript, with backend experience in Node.js
--☁️ Cloud-focused developer with hands-on deployment experience across AWS services
--🔐 Skilled in building secure and performant applications with JWT, OAuth2, Redis, and REST APIs
--🏆 AWS Certified Cloud Practitioner
--✨ Passionate about user-centric UI/UX, frontend optimization, and full-stack problem-solving
+- 🎓 Master of Science in **Computer Science** – *Southern Arkansas University* (GPA: 3.83, Class of 2025)  
+- 💼 5 years of experience designing, developing, and deploying **scalable web and enterprise applications**  
+- 🛠 Full-stack expertise in **ReactJS, Java, Spring Boot, Node.js, Express.js**  
+- ☁️ Cloud & DevOps skills with **AWS (EC2, S3, Lambda, API Gateway), Docker, Jenkins, Kubernetes**  
+- 🔐 Experience in **JWT, OAuth2, Redis, REST APIs, and Microservices**  
+- 🏆 **AWS Certified Cloud Practitioner**  
+- 🚀 Passionate about **building high-performance, secure, and user-centric applications**  
 
-
+---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Bootstrap, Material UI  
+**Backend:** Java, Spring Boot, Spring Security, Node.js, Express.js, Hibernate, JPA  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Terraform  
+**Databases:** MySQL, PostgreSQL, MongoDB, Oracle, Redis  
+**Tools:** Git, GitHub, Bitbucket, Jira, Maven, Gradle, JUnit, Mockito  
 
+---
 
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&locale=en&layout=compact" alt="mahesh3000" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&locale=en" alt="mahesh3000" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
+---
 
+## 🌟 Highlighted Projects
+
+### 🚀 Breeze  
+- Built a **real-time trading application** with **WebSockets, React, and Redux**  
+- Implemented **JWT authentication** and **AWS-based deployment**  
+
+### 💰 CryptoTrack  
+- Developed a **cryptocurrency tracking dashboard** with **React + Node.js + AWS**  
+- Integrated **real-time price updates, Chart.js, and API Gateway/Lambda**  
+
+---
+
+💡 *I’m passionate about crafting secure, performant, and scalable applications that deliver real business value.*  
