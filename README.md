@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh+Sivangi;Full-Stack+Developer+%7C+React+%2B+Java" alt="Typing SVG" />
 </h1>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Master of Science in **Computer Science** – *Southern Arkansas University* (GPA: 3.83, Class of 2025)  
@@ -14,7 +12,6 @@
 - 🏆 **AWS Certified Cloud Practitioner**  
 - 🚀 Passionate about **building high-performance, secure, and user-centric applications**  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +21,7 @@
 **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, Redis  
 **Tools:** Git, GitHub, Bitbucket, Jira, Maven, Gradle, JUnit, Mockito  
 
----
+
 
 ## 📊 GitHub Stats
 
