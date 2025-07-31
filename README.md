@@ -4,19 +4,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Master of Science in Computer Science – Southern Arkansas University (GPA: 3.83, Class of 2025)
-
-💻 5 years of experience building fast, scalable, and reliable web applications
-
-🛠️ Expertise in ReactJS, JavaScript, TypeScript, with backend experience in Node.js
-
-☁️ Cloud-focused developer with hands-on deployment experience across AWS services
-
-🔐 Skilled in building secure and performant applications with JWT, OAuth2, Redis, and REST APIs
-
-🏆 AWS Certified Cloud Practitioner
-
-✨ Passionate about user-centric UI/UX, frontend optimization, and full-stack problem-solving
+-🎓 Master of Science in Computer Science – Southern Arkansas University (GPA: 3.83, Class of 2025)
+-💻 5 years of experience building fast, scalable, and reliable web applications
+-🛠️ Expertise in ReactJS, JavaScript, TypeScript, with backend experience in Node.js
+-☁️ Cloud-focused developer with hands-on deployment experience across AWS services
+-🔐 Skilled in building secure and performant applications with JWT, OAuth2, Redis, and REST APIs
+-🏆 AWS Certified Cloud Practitioner
+-✨ Passionate about user-centric UI/UX, frontend optimization, and full-stack problem-solving
 
 
 
