@@ -22,17 +22,6 @@
 **Tools:** Git, GitHub, Bitbucket, Jira, Maven, Gradle, JUnit, Mockito  
 
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 ## 📊 GitHub Stats
 
 | Top Languages | GitHub Stats |
