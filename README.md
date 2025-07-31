@@ -36,17 +36,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
+## 📊 GitHub Stats
 
-## 🌟 Highlighted Projects
-
-### 🚀 Breeze  
-- Built a **real-time trading application** with **WebSockets, React, and Redux**  
-- Implemented **JWT authentication** and **AWS-based deployment**  
-
-### 💰 CryptoTrack  
-- Developed a **cryptocurrency tracking dashboard** with **React + Node.js + AWS**  
-- Integrated **real-time price updates, Chart.js, and API Gateway/Lambda**  
+| Top Languages | GitHub Stats |
+|--------------|--------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&locale=en" alt="GitHub Stats" /> |
 
 ---
 
