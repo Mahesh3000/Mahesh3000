@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Master of Science in **Computer Science** – *Southern Arkansas University* (GPA: 3.83, Class of 2025)  
-- 💼 5 years of experience designing, developing, and deploying **scalable web and enterprise applications**  
+- 💼 3+ years of experience designing, developing, and deploying **scalable web and enterprise applications**  
 - 🛠 Full-stack expertise in **ReactJS, Java, Spring Boot, Node.js, Express.js**  
 - ☁️ Cloud & DevOps skills with **AWS (EC2, S3, Lambda, API Gateway), Docker, Jenkins, Kubernetes**  
 - 🔐 Experience in **JWT, OAuth2, Redis, REST APIs, and Microservices**  
