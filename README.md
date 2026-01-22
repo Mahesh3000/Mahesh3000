@@ -1,13 +1,13 @@
-<h1 align="start">
-  👋 Hi, I'm <strong>Mahesh Sivangi</strong>
-</h1>
+<h2>Hi there, I'm <span style="color:#2f80ed;">Mahesh Sivangi</span> 👋 👋</h2>
 
-<h3 align="start">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=007ACC&width=700&lines=Full-Stack+Developer;React+%7C+Java+%7C+Node.js;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Web+Applications" 
-    alt="Typing SVG" 
-  />
-</h3>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E75B6&width=500&lines=I'm+a+Fullstack+Web+Developer;Java+%7C+React+%7C+Node.js;AWS+%7C+Microservices+%7C+CI%2FCD"
+/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=maheshsivangi&label=Visitors&color=0e75b6&style=flat" />
+
 
 
 ## 👨‍💻 About Me
