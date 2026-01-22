@@ -1,6 +1,14 @@
 <h1 align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=007ACC&width=600&lines=Hey👋%2C+I'm+Mahesh+Sivangi;Full-Stack+Developer+%7C+React+%2B+Java" alt="Typing SVG" />
+  👋 Hi, I'm <strong>Mahesh Sivangi</strong>
 </h1>
+
+<h3 align="start">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=007ACC&width=700&lines=Full-Stack+Developer;React+%7C+Java+%7C+Node.js;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Web+Applications" 
+    alt="Typing SVG" 
+  />
+</h3>
+
 
 ## 👨‍💻 About Me
 
