@@ -12,42 +12,41 @@ Hi there, I'm <span style="color:#00BFFF;">Mahesh Sivangi</span> 👋
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **Master of Science in Computer Science**  
-Southern Arkansas University – *GPA: 3.83 (2025)*  
+Southern Arkansas University – *GPA: 3.83 (2025)*<br>
 
-💼 **4+ years of experience** designing scalable web and enterprise applications  
+💼 **4+ years of experience** designing scalable web and enterprise applications<br>
 
-⚡ Specialized in **React, TypeScript, Node.js, and Java**  
+⚡ Specialized in **React, TypeScript, Node.js, and Java**<br>
 
-☁️ Experienced with **AWS cloud infrastructure and microservices architecture**  
+☁️ Experienced with **AWS cloud infrastructure and microservices architecture**<br>
 
-🔐 Worked with **REST APIs, JWT authentication, OAuth2, Redis caching**  
+🔐 Worked with **REST APIs, JWT authentication, OAuth2, Redis caching**<br>
 
-🏆 **AWS Certified Cloud Practitioner**
+🏆 **AWS Certified Cloud Practitioner**<br>
 
 🚀 Passionate about **cloud-native backend systems and scalable architecture**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-React.js • TypeScript • JavaScript • HTML5 • CSS3 • Redux • Tailwind • Material UI
+**Frontend:**  
+React.js • TypeScript • JavaScript • HTML5 • CSS3 • Redux • Tailwind • Material UI  
 
-### Backend
-Node.js • Java • Spring Boot • Express.js • REST APIs • WebSockets • Microservices
+**Backend:**  
+Node.js • Java • Spring Boot • Express.js • REST APIs • WebSockets • Microservices  
 
-### Cloud & DevOps
-AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Terraform
+**Cloud & DevOps:**  
+AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Terraform  
 
-### Databases
-PostgreSQL • MySQL • MongoDB • Redis • Oracle
+**Databases:**  
+PostgreSQL • MySQL • MongoDB • Redis • Oracle  
 
-### Tools
+**Tools:**  
 Git • GitHub • Bitbucket • Jira • Maven • Gradle • JUnit • Mockito
-
 ---
 
 # ☁️ Certifications
