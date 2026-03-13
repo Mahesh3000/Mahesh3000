@@ -1,41 +1,85 @@
-  <h2>Hi there, I'm <span style="color:#2f80ed;">Mahesh Sivangi</span> 👋 👋</h2>
-  
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E75B6&width=500&lines=I'm+a+Fullstack+Web+Developer;Java+%7C+React+%7C+Node.js;AWS+%7C+Microservices+%7C+CI%2FCD"
-  />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=maheshsivangi&label=Visitors&color=0e75b6&style=flat" />
-  
-  
-  
-  ## 👨‍💻 About Me
-  
-  - 🎓 Master of Science in **Computer Science** – *Southern Arkansas University* (GPA: 3.83, Class of 2025)  
-  - 💼 4+ years of experience designing, developing, and deploying **scalable web and enterprise applications**  
-  - 🛠 Full-stack expertise in **ReactJS, Java, Spring Boot, Node.js, Express.js**  
-  - ☁️ Cloud & DevOps skills with **AWS (EC2, S3, Lambda, API Gateway), Docker, Jenkins, Kubernetes**  
-  - 🔐 Experience in **JWT, OAuth2, Redis, REST APIs, and Microservices**  
-  - 🏆 **AWS Certified Cloud Practitioner**  
-  - 🚀 Passionate about **building high-performance, secure, and user-centric applications**  
-  
-  
-  ## 🛠️ Tech Stack
-  
-  **Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Bootstrap, Material UI  
-  **Backend:** Java, Spring Boot, Spring Security, Node.js, Express.js, Hibernate, JPA  
-  **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Terraform  
-  **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, Redis  
-  **Tools:** Git, GitHub, Bitbucket, Jira, Maven, Gradle, JUnit, Mockito  
-  
-  
-  ## 📊 GitHub Stats
-  
-  | GitHub Stats | Top Languages |
-  |--------------|--------------|
-  | <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Top Languages" /> |
-  
-  ---
-  
-  💡 *I’m passionate about crafting secure, performant, and scalable applications that deliver real business value.*  
+<h2 align="center">
+Hi there, I'm <span style="color:#00BFFF;">Mahesh Sivangi</span> 👋
+</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&width=550&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript;AWS+%7C+Microservices+%7C+Cloud+Engineering;Building+Scalable+Applications"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mahesh3000&label=Profile%20Views&color=00BFFF&style=flat"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 **Master of Science in Computer Science**  
+Southern Arkansas University – *GPA: 3.83 (2025)*  
+
+💼 **4+ years of experience** designing scalable web and enterprise applications  
+
+⚡ Specialized in **React, TypeScript, Node.js, and Java**  
+
+☁️ Experienced with **AWS cloud infrastructure and microservices architecture**  
+
+🔐 Worked with **REST APIs, JWT authentication, OAuth2, Redis caching**  
+
+🏆 **AWS Certified Cloud Practitioner**
+
+🚀 Passionate about **cloud-native backend systems and scalable architecture**
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+React.js • TypeScript • JavaScript • HTML5 • CSS3 • Redux • Tailwind • Material UI
+
+### Backend
+Node.js • Java • Spring Boot • Express.js • REST APIs • WebSockets • Microservices
+
+### Cloud & DevOps
+AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Terraform
+
+### Databases
+PostgreSQL • MySQL • MongoDB • Redis • Oracle
+
+### Tools
+Git • GitHub • Bitbucket • Jira • Maven • Gradle • JUnit • Mockito
+
+---
+
+# ☁️ Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh3000&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh3000&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+💡 *Focused on building scalable cloud-native applications, distributed systems, and high-performance backend architectures.*
