@@ -32,9 +32,9 @@
   
   ## 📊 GitHub Stats
   
-  | Top Languages | GitHub Stats |
+  | GitHub Stats | Top Languages |
   |--------------|--------------|
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" /> |
+  | <img src="https://github-readme-stats.vercel.app/api?username=mahesh3000&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh3000&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Top Languages" /> |
   
   ---
   
