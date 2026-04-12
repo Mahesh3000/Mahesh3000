@@ -17,20 +17,23 @@ Hi there, I'm <span style="color:#00BFFF;">Mahesh Sivangi</span> 👋
 ## 👨‍💻 About Me
 
 🎓 **Master of Science in Computer Science**  
-Southern Arkansas University – *GPA: 3.83 (2025)*<br>
+Southern Arkansas University – *GPA: 3.83 (2025)*
 
-💼 **4+ years of experience** designing scalable web and enterprise applications<br>
+💼 **Software Engineer building scalable, enterprise-grade applications**
 
-⚡ Specialized in **React, TypeScript, Node.js, and Java**<br>
+⚡ Strong expertise in **React, TypeScript, Node.js, and Java**
 
-☁️ Experienced with **AWS cloud infrastructure and microservices architecture**<br>
+☁️ Hands-on experience designing **cloud-native systems on AWS (EC2, Lambda, API Gateway, S3)**
 
-🔐 Worked with **REST APIs, JWT authentication, OAuth2, Redis caching**<br>
+🔐 Built secure and high-performance systems using **REST APIs, JWT, OAuth2, and Redis caching**
 
-🏆 **AWS Certified Cloud Practitioner**<br>
+📊 Experienced in **real-time data systems, event-driven architecture, and microservices**
 
-🚀 Passionate about **cloud-native backend systems and scalable architecture**
+🏆 **AWS Certified Cloud Practitioner**
 
+🚀 Focused on **high-performance backend systems, scalability, and distributed architecture**
+
+ 
 ---
 
 ## 🛠 Tech Stack
